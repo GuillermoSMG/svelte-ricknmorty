@@ -24,12 +24,12 @@ body {
   background-color: #101010;
   text-align: center;
   border-radius: 5px;
-  overflow: hidden;
 }
 
 .character img {
   border-radius: 5px 5px 0 0;
   object-fit: cover;
+  width: 100%;
 }
 
 .buttons-container {
